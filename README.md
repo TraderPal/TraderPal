@@ -1,7 +1,7 @@
 # 🚀 TraderPal Connect
 
 [![Documentación](https://img.shields.io/badge/Documentación-Latest-blue?style=for-the-badge)](https://docs.traderpalconnect.com)
-[![Estado del servicio](https://img.shields.io/website?url=https%3A%2F%2Fapi.traderpalconnect.com&style=for-the-badge)](https://api.traderpalconnect.com)
+[![Website](https://img.shields.io/badge/Web-traderpalconnect.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://www.traderpalconnect.com/)
 [![Licencia](https://img.shields.io/badge/Licencia-Proprietary-red?style=for-the-badge)](#-licencia)
 
 **TraderPal Connect** es una potente API REST que permite a desarrolladores, startups y empresas integrar funcionalidades de trading, análisis financiero y gestión de inversiones directamente en sus aplicaciones.
